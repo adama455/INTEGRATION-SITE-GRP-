@@ -1,0 +1,27 @@
+@media screen and (max-width: 1125px) {
+    #clinique {
+      width: 620px;
+    }
+  }
+  @media screen and (max-width: 1090px) and (min-width: 935px) {
+    #clinique {
+      width: 520px;
+    }
+  }
+  @media screen and (max-width: 550px) {
+    #clinique {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 415px) {
+    #clinique {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 390px) {
+    #clinique {
+      width: 100%;
+    }
+  }
